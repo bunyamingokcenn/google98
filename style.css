@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 89.6%;
+    margin: 0 auto;
+    text-align: center;    
+}
+
+#article2 {
+    background-color:#EEEEEE;;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#article3-firstdiv {
+    background-color: #7EE5DA;
+    width: 39.9%;
+    height: 82px;
+    margin-right: 2px;
+    margin-top: 2px;
+    float: left;
+    
+}
+
+#article3-seconddiv {
+    background-color: #70CCC2;
+    width: 20%;
+    height: 82px;
+    margin-top: 2px;
+    font-size: 15px;
+    float: left;
+}
+
+#article3-thirddiv {
+    background-color: #62B3AA;
+    width: 39.8%;
+    height: 82px;
+    margin-top: 2px;
+    margin-left: 2px;
+    font-size: 15px;
+    float: left;
+}
+
+a:hover {
+    color: red;
+  }
+
